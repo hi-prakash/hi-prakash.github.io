@@ -1,3 +1,3 @@
 # Portfolio Website
 
-https://prakash.netlify.app/
+https://hi-prakash.netlify.app/
